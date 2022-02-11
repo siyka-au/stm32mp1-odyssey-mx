@@ -1,0 +1,4 @@
+MANIFEST_VERSION = openstlinux-5.10-dunfell-mp1-21-11-17
+KERNEL_DT = ./DeviceTree/odyssey/kernel
+UBOOT_DT = ./DeviceTree/odyssey/u-boot
+TFA_DT = ./DeviceTree/odyssey/tf-a
